@@ -1,0 +1,4 @@
+#Sat Sep 24 21:18:51 IST 2022
+base.0=D\:\\Grocery App\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
