@@ -1,7 +1,7 @@
 <h1>Virtual Internship -- Android Application Development Using Kotlin<h1>
-<h2>Name:   Anchal Pandey</h2></br>
+<h2>Name:   Anchal Pandey</h2>
 <h2>SBID:  SB20220236681</h2>
-
+</br>
 ## Grocery Android Application - Groffers Basket
 <img src="https://github.com/AnchalPandey29/Grocery-App/blob/main/1.gif?raw=true">
 As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.<br>
@@ -18,6 +18,6 @@ It is grocery bucket list app which you love to use while shopping...<br><br>
 -Coroutines<br>
 -Firebase authentication<br>
 <br>
-<h align="center">
+<h2 align="center">
 Thank You SmartBridge $ GOOGLE!
-</h>
+</h2>
